@@ -13,16 +13,16 @@
       "title": "Task 2",
       "description": "Description for task 2",
       "location": "Valletta",
-      "date": "1st of Jan",
-      "time": "12.00"
+      "date": "2nd of Jan",
+      "time": "14.00"
     },
     {
       "id": 3,
       "title": "Task 3",
       "description": "Description for task 3",
       "location": "Valletta",
-      "date": "1st of Jan",
-      "time": "12.00"
+      "date": "3rd of Jan",
+      "time": "18.00"
     }
   ]
 }
