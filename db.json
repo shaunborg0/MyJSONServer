@@ -13,7 +13,7 @@
           "title": "Task 2",
           "description": "Description for task 2",
           "location": "Valletta",
-          "date": "1st of Jan",
+          "date": "2nd of Jan",
           "time": "12.00"
         },
         {
@@ -21,7 +21,7 @@
           "title": "Task 3",
           "description": "Description for task 3",
           "location": "Valletta",
-          "date": "1st of Jan",
+          "date": "3rd of Jan",
           "time": "12.00"
         },
       {
@@ -29,7 +29,7 @@
           "title": "Task 4",
           "description": "Description for task 4",
           "location": "Valletta",
-          "date": "1st of Jan",
+          "date": "4th of Jan",
           "time": "12.00"
         },
     {
@@ -37,7 +37,7 @@
           "title": "Task 5",
           "description": "Description for task 5",
           "location": "Valletta",
-          "date": "1st of Jan",
+          "date": "5th of Jan",
           "time": "12.00"
         },
     {
@@ -45,7 +45,7 @@
           "title": "Task 6",
           "description": "Description for task 6",
           "location": "Valletta",
-          "date": "1st of Jan",
+          "date": "6th of Jan",
           "time": "12.00"
         }
     
